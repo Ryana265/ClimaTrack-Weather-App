@@ -4,7 +4,7 @@
 
 ## Demo
 
-[![Watch the video](https://github.com/user-attachments/assets/8971cdb0-aded-45fd-b8db-8081c276fd73)]()
+![Screenshot 2024-10-13 121856](https://github.com/user-attachments/assets/776447f5-35fa-4dd2-a574-11fd8919b0dd)
 
 
 ## Features
